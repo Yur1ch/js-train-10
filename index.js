@@ -311,5 +311,5 @@ const arr = [
   ["c", 3],
   ["a", 4],
 ];
-console.log(convertArrayToObj(arr)); // Виведе {a: 4, b: 2, c: 3}
+console.log(convertArrayToObj(arr)); // Виведе {a: 4 b: 2, c: 3}
 
